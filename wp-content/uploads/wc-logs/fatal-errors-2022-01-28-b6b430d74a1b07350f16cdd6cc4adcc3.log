@@ -257,3 +257,123 @@ Stack trace:
 
 2022-01-28T16:22:46+00:00 CRITICAL syntax error, unexpected '<' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 34
 
+2022-01-28T16:56:55+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:50
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php(68): createTerm()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#8 /home/arthur/Desktop/Dev/WORDPRESS/tinsea dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 50
+
+2022-01-28T16:56:55+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:50
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php(68): createTerm()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#8 /home/arthur/Desktop/Dev/WORDPRESS/tinsea dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 50
+
+2022-01-28T16:56:59+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:50
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php(68): createTerm()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#8 /home/arthur/Desktop/Dev/WORDPRESS/tinsea dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 50
+
+2022-01-28T16:56:59+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:50
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php(68): createTerm()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#8 /home/arthur/Desktop/Dev/WORDPRESS/tinsea dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 50
+
+2022-01-28T16:57:28+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:50
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php(68): createTerm()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#8 /home/arthur/Desktop/Dev/WORDPRESS/tinsea dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 50
+
+2022-01-28T16:57:28+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:50
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php(68): createTerm()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#8 /home/arthur/Desktop/Dev/WORDPRESS/tinsea dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 50
+
+2022-01-28T16:57:28+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:50
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php(68): createTerm()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#8 /home/arthur/Desktop/Dev/WORDPRESS/tinsea dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 50
+
+2022-01-28T16:57:32+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:50
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php(68): createTerm()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#8 /home/arthur/Desktop/Dev/WORDPRESS/tinsea dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 50
+
+2022-01-28T16:57:32+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:50
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php(68): createTerm()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#8 /home/arthur/Desktop/Dev/WORDPRESS/tinsea dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 50
+
+2022-01-28T16:57:32+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:50
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php(68): createTerm()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#8 /home/arthur/Desktop/Dev/WORDPRESS/tinsea dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 50
+
