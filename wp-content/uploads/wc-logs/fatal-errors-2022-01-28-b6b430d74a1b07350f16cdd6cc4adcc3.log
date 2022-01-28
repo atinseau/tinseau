@@ -1,0 +1,259 @@
+2022-01-28T14:20:12+00:00 CRITICAL require(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:12+00:00 CRITICAL require(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:13+00:00 CRITICAL require(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:21+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:22+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:22+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:22+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:22+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:22+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:23+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:23+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/wp-content/themes/tinseau/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:53+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:54+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:54+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:54+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:55+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:20:56+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:21:13+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 18
+
+2022-01-28T14:22:59+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 17
+
+2022-01-28T14:23:00+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 17
+
+2022-01-28T14:23:00+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 17
+
+2022-01-28T14:23:02+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 17
+
+2022-01-28T14:23:13+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 17
+
+2022-01-28T14:23:50+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 17
+
+2022-01-28T14:23:51+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 17
+
+2022-01-28T14:23:52+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 17
+
+2022-01-28T14:23:52+00:00 CRITICAL require_once(): Failed opening required '/Includes/dynamic_attribute.php' (include_path='.:/usr/share/php') dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php à la ligne 17
+
+2022-01-28T14:24:39+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::get_attribute_taxonomy_names() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:5
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php(17): require_once()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(555): include('/home/arthur/De...')
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#6 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 5
+
+2022-01-28T14:24:39+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::get_attribute_taxonomy_names() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:5
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php(17): require_once()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(555): include('/home/arthur/De...')
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#6 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 5
+
+2022-01-28T14:24:50+00:00 CRITICAL Uncaught Error: Call to undefined method WooCommerce::get_attribute_taxonomy_names() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:5
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php(17): require_once()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(555): include('/home/arthur/De...')
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-admin/admin-ajax.php(22): require_once('/home/arthur/De...')
+#5 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 5
+
+2022-01-28T14:48:17+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:7
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php(22): require_once()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(555): include('/home/arthur/De...')
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#6 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 7
+
+2022-01-28T14:48:18+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:7
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php(22): require_once()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(555): include('/home/arthur/De...')
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#6 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 7
+
+2022-01-28T14:48:18+00:00 CRITICAL Uncaught Error: Object of class stdClass could not be converted to string in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:7
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/functions.php(22): require_once()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(555): include('/home/arthur/De...')
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#6 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 7
+
+2022-01-28T14:50:40+00:00 CRITICAL syntax error, unexpected ';', expecting ')' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 15
+
+2022-01-28T14:59:44+00:00 CRITICAL syntax error, unexpected '}' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 12
+
+2022-01-28T15:15:20+00:00 CRITICAL syntax error, unexpected '}', expecting ')' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 45
+
+2022-01-28T15:15:21+00:00 CRITICAL syntax error, unexpected '}', expecting ')' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 45
+
+2022-01-28T15:15:58+00:00 CRITICAL syntax error, unexpected '}', expecting ')' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 45
+
+2022-01-28T15:16:11+00:00 CRITICAL syntax error, unexpected '}', expecting ')' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 31
+
+2022-01-28T15:16:12+00:00 CRITICAL syntax error, unexpected '}', expecting ')' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 31
+
+2022-01-28T15:16:13+00:00 CRITICAL syntax error, unexpected '}', expecting ')' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 31
+
+2022-01-28T15:16:13+00:00 CRITICAL syntax error, unexpected '}', expecting ')' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 31
+
+2022-01-28T15:20:39+00:00 CRITICAL Uncaught Error: Call to undefined function proccess_add_attribute() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:66
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#8 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 66
+
+2022-01-28T15:20:40+00:00 CRITICAL Uncaught Error: Call to undefined function proccess_add_attribute() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:66
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#8 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 66
+
+2022-01-28T15:20:52+00:00 CRITICAL Uncaught Error: Call to undefined function proccess_add_attribute() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:66
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-cron.php(44): require_once('/home/arthur/De...')
+#7 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 66
+
+2022-01-28T15:49:54+00:00 CRITICAL syntax error, unexpected '}' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 112
+
+2022-01-28T15:54:09+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::set_attribute() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:12
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#8 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 12
+
+2022-01-28T15:54:09+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::set_attribute() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:12
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#8 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 12
+
+2022-01-28T15:54:14+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::set_attribute() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:12
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#8 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 12
+
+2022-01-28T15:54:15+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::set_attribute() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:12
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#8 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 12
+
+2022-01-28T15:54:15+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::set_attribute() in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php:12
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): {closure}()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/plugin.php(474): WP_Hook->do_action()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-settings.php(587): do_action()
+#4 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-config.php(80): require_once('/home/arthur/De...')
+#5 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-load.php(50): require_once('/home/arthur/De...')
+#6 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-blog-header.php(13): require_once('/home/arthur/De...')
+#7 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/index.php(17): require('/home/arthur/De...')
+#8 {main}
+  thrown dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 12
+
+2022-01-28T15:54:34+00:00 CRITICAL syntax error, unexpected '}' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 51
+
+2022-01-28T16:12:58+00:00 CRITICAL Uncaught TypeError: Argument 1 passed to Automattic\WooCommerce\Internal\DownloadPermissionsAdjuster::get_download_files_and_permissions() must be an instance of WC_Product, bool given, called in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/plugins/woocommerce/src/Internal/DownloadPermissionsAdjuster.php on line 103 and defined in /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/plugins/woocommerce/src/Internal/DownloadPermissionsAdjuster.php:138
+Stack trace:
+#0 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/plugins/woocommerce/src/Internal/DownloadPermissionsAdjuster.php(103): Automattic\WooCommerce\Internal\DownloadPermissionsAdjuster->get_download_files_and_permissions()
+#1 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(307): Automattic\WooCommerce\Internal\DownloadPermissionsAdjuster->adjust_download_permissions()
+#2 /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#3 /home/arthur/Desktop/Dev/WORDPRESS/ti dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/plugins/woocommerce/src/Internal/DownloadPermissionsAdjuster.php à la ligne 138
+
+2022-01-28T16:17:11+00:00 CRITICAL syntax error, unexpected ')' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 30
+
+2022-01-28T16:21:13+00:00 CRITICAL syntax error, unexpected 'foreach' (T_FOREACH) dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 34
+
+2022-01-28T16:21:49+00:00 CRITICAL syntax error, unexpected 'foreach' (T_FOREACH) dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 34
+
+2022-01-28T16:22:46+00:00 CRITICAL syntax error, unexpected '<' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/themes/tinseau/Includes/dynamic_attribute.php à la ligne 34
+

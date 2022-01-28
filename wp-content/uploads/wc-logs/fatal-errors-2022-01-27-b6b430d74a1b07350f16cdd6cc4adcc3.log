@@ -1,0 +1,4 @@
+2022-01-27T13:41:55+00:00 CRITICAL syntax error, unexpected 'wc_get_template' (T_STRING), expecting ';' or ',' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php à la ligne 24
+
+2022-01-27T13:41:56+00:00 CRITICAL syntax error, unexpected 'wc_get_template' (T_STRING), expecting ';' or ',' dans /home/arthur/Desktop/Dev/WORDPRESS/tinseau/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php à la ligne 24
+
